@@ -8,9 +8,6 @@ import os
 import time
 
 
-# I'm well aware this program can be glitchy.  It's not very flexible at all.  It was created soley to parse transmittal files and thus is contingent on having transmittal files follow a certain pattern.  I tried to account for as much deviation as possible, but I may not have captured it all.
-
-
 # Global variable of the working compiled scraped data from the pdf documents
 compiled = {}
 
